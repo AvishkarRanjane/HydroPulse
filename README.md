@@ -11,7 +11,7 @@
 
 **Smart IoT Telemetry · Z-Score Anomaly Detection · GIS Pipeline Network Intelligence · Automated Priority Dispatch · Citizen Public Incident Reporting**
 
-[🌐 **Live Demo on Vercel**](https://hydro-pulse.vercel.app) • [📖 Documentation](#-system-architecture) • [🚀 Quick Start](#-quick-start-guide) • [📡 API Reference](#-api-endpoints)
+[🌐 **Live Demo on Vercel**](https://frontend-puce-beta-k6ip7blylp.vercel.app) • [📖 Documentation](#-system-architecture) • [🚀 Quick Start](#-quick-start-guide) • [📡 API Reference](#-api-endpoints)
 
 </div>
 
